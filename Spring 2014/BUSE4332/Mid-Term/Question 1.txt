@@ -1,10 +1,41 @@
+QUESTION 1 - ESSAY QUESTION - 45 POINTS 
+After watching a documentary on TV addressing technological developments in the energy sector, Sponge Bob decides he wants to drill an oil or gas well in Texas. He knows nothing about oil or gas development or law so has hired you to advise him as to the details. 
+ 
+FACTS: Sponge Bob decides he wants to drill a new well near an existing oil or gas field on a 640 acre farm owned by Ole McDonald. Wells #1 through #10 have been drilled in the offsetting sections to the location where Sponge Bob plans to drill, and these offset wells produce mainly natural gas but also some crude oil from the Barnett Shale formation. 
+ 
+The McDonald Farm is quite active, with extensive livestock operations on site. When approached, Ole McDonald was not interested in any drilling operations on his lands - in fact he was quite upset that Sponge Bob was even considering drilling on his farm. Ole told Sponge Bob he did not own any of the underlying mineral rights, therefore could not grant Sponge Bob the right to drill anyway. 
+ 
+Sponge Bob proposes locating the McDonald Farm well as close to existing production as possible, so he proposes drilling five feet from the property line (see plat). Sponge Bob thinks the new well will probably produce mostly crude oil. He proposes to produce the oil and store it in a large tank on the McDonald Farm and suggests he will ‘flare’ the natural gas discovered, if any, in a manner that will light up the entire farm area so the cattle can see at night. 
+ 
+Once a week a semitrailer will come into the McDonald Farm and empty the oil tank, taking the product to a refiner who will pay Sponge Bob for the oil. 
+
+
 Question 1: Discuss Sponge Bob’s proposed drilling plan and advise him how to proceed, including a 
 discussion of the following issues: 
- 
-(1) where he will get the right to drill a well from and how can he locate these parties? 
+
+
+(1) Where he will get the right to drill a well from and how can he locate these parties?
+		
+		Since Ole McDonald said he did not have the mineral rights Sponge Bob is proposing to drill five feet from his property line. Because of this he will need to obtain the property rights from the mineral owner of the adjacent property to Ole McDonald, of where he is proposing to drill. He can obtain this information free of charge at the County Clerk's office. 
+
 (2) the proposed location of the well, 
+		
+		Sponge Bob has the right to drill five feet from Ole McDonalds' property so long as he owns or leases the mineral rights under where he is going to be drilling. Although it’s plausible he will collect oil that once was under the adjacent property, where he does not have mineral rights, it does not matter since he is protected under the rule of capture
+		
 (3) the proposed location and building of the oil storage tank, and whether he should build the tank before or after the well is drilled, 
+
+		Sponge Bob will need to obtain the right to build on Ole McDonalds' property to build the oil storage tank. It is hard to tell from the image, although drawn to scale, as to whether Sponge Bob would be in compliance with the TRC and their requirements to stay 150 feet or more from barns. Pending the compliance there I am unable to find a reason why he wouldn’t be allowed to build there. 
+		
 (4) the proposal to flare the natural gas, 
+
+		He is going to be out of luck. The Texas Railroad Commission only allows flaring up to 45 days at a time with a maximum of 180 days. 
+
 (5) whether Ole McDonald can stop Sponge Bob from drilling, 
+
+		Ole McDonald would likely have a case of unreasonable use due to the amount of light that the flaring, if Sponge Bob got approved, and the effects it would have on his land. He would be using the flaring and the light it creates as a nuisance to get a judgment against Sponge Bob.
+		
 (6) the need to pay Ole McDonald or otherwise deal with him as the surface owner, and 
+
+		Sponge Bob, if he wants to build on Ole McDonalds’ land would need the surface owners approval to move forward. However, if he chose to build everything, including the storage tanks, on the property of which he has the mineral rights he is entitled to do that.
+		
 (7) any other issues we have discussed in class that you think of relating to Sponge Bob’s proposal. 
