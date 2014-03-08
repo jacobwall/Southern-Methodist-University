@@ -11,11 +11,32 @@ storage project.
 Question 2: Discuss Sponge Bob’s proposal for the salt water and natural gas and advise him how to proceed, 
 including a discussion of the following issues: 
  
-(1) who does Sponge Bob need approval from to inject the salt water in an injection well on the McDonald 
- Farm? 
+(1) who does Sponge Bob need approval from to inject the salt water in an injection well on the McDonald Farm? 
+ 
+		 Sponge Bob will need to gain approval from the Texas Railroad Commission. Their requirements are as follows. 
+ 
+		 -	Whether an operator is eligible for a permit (has no past due franchise taxes, has the required financial assurance, and has no outstanding compliance problems applicable to the proposed injection or disposal operation.)
+		 -	Whether all affected parties have been properly notified. For non-commercial wells, the surface owner and nearby oil and gas well operators are required by Commission rules to be notified. For commercial wells, adjacent surface owners also must be notified under Commission rules.
+		 -	If a protest is filed, the RRC notifies the operator that the application cannot be approved administratively, and the operator is advised of their right to a hearing on the application.
+		 -	That the proposed injection well is properly completed to protect groundwater with required surface casing to the base of usable quality water as determined by RRC’s Groundwater Advisory Unit with long string casing and cement to ensure that the injected fluid is confined to the proposed injection or disposal interval.
+		 -	That there are no improperly completed, improperly plugged or unplugged and abandoned oil and gas wells of public record within ¼ mile of the proposed injection well. (This is known as the area of review, and may be expanded up to ½ mile or more in some circumstances.)
+ 
 (2) can he dump the salt water into the stream? 
+
+		He cannot dump the water into a stream.
+
 (3) who does he need permission from to inject the natural gas? 
+
+		He will need to gain permission from the Texas Railroad Commission.
+
 (4) does he lose ownership of the natural gas once it is re-injected? 
+
+		He does not lose ownership once re-injected per the rule of capture.
+
 (5) if Sponge Bob needs a loan what assets can he use as collateral and how will they be secured by the lender? 
+
+		Sponge Bob could use the assets of the well and the oil it produces as collateral. 
+		
+		
 (6) any other issues with these additional facts that you can think of we talked about in class dealing with 
  Sponge Bob’s project. 

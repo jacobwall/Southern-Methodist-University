@@ -11,10 +11,23 @@ Question 3: Discuss Sponge Bob’s desire to drill deeper and operational propos
 issues: 
  
 (1) should Sponge Bob get seismic data before he drills deeper since no-one knows what is down there? 
+
+		Attaining seismic data could theoretically save him a considerable amount of money, if it were a dry hole. Even if he wasn’t going to drill a dry hole in this example it would provide critically important information which would help him find the “best” depth to drill to. 
+
 (2) if he gets seismic data, whose permission does he need to ‘shoot’ seismic? 
+
+		Sponge Bob will need to gain permission from the surface owner in order to shoot seismic. 
+
 (3) do you recommend he use explosives, or a vibro-truck, in shooting the seismic? 
-(4) if the frac job works, can Sponge Bob take ownership of his neighbors oil or natural gas if it migrates to his 
- well, and 
+
+		Explosives are a rudimentary way to obtain seismic data these days. Sponge Bob would be best to use a vibro-truck to shoot the seismic since it is more environmentally friendly and is something that would be appreciated by the residents near the area of which you’re shooting seismic. 
+
+(4) if the frac job works, can Sponge Bob take ownership of his neighbors oil or natural gas if it migrates to his well, and 
+
+		If the frac job works, Sponge Bob under the rule of capture, retains ownership of the oil and natural gas his well “sucks” up regardless of where it came from. 
+
 (5) can Sponge Bob use a compressor to push the natural gas into a pipeline, or is that illegal? 
-(6) any other issues you can think of we talked about in class dealing with these additional facts regarding 
- Sponge Bob’s project. 
+
+		Sponge Bob can use a compressor to push the natural gas into the pipeline. 
+
+(6) any other issues you can think of we talked about in class dealing with these additional facts regarding Sponge Bob’s project. 
