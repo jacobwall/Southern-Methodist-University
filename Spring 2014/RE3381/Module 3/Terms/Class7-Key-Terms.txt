@@ -1,0 +1,68 @@
+Class 7 – Key Terms
+
+Contract – 
+
+4 Elements of a Contract:
+Competent Parties - 
+Legal Subject Matter - 
+Consideration - 
+Mutual Assent - 
+
+Incompetent Parties - Minor, mentally infirm, under the influence
+
+Mutual assent / Meeting of the Minds - Agreement by both parties to a contract. Mutual assent must be proven objectively, and is often established by showing an offer and acceptance (e.g., an offer to do X in exchange for Y, followed by an acceptance of that offer).
+
+Offer & Acceptance:
+Communicated – 
+Serious – 
+Definite – 
+
+Termination of Offer: 
+Termination by the Offeror- First, termination can occur if the offeror directly communicates that he or she is revoking the offer to the offeree. Second, termination can occur if the offeror acts in a manner that demonstrates his or her aversion to maintain the offer, and the offeree is given accurate information of this from a reliable source. Third, if the offer was communicated through some form of publication, the offer can be revoked through the use of some similar means of publication. Under each of these situations, the revocation of the offer goes into effect when it is received by the offeree (or when it is published).
+Termination by the Offeree - With respect to an offeree, an offer can be terminated through a lapse in time, or through rejection. Let’s explore each one of these possibilities 
+Operation of Law - (i) termination by death or insanity of either party; (ii) termination by a supervening illegality; and (iii) termination by destruction.
+
+Defenses to Mutual Assent:
+Fraud - Misrepresentation occurs where a person makes a material misrepresentation, with scienter/culpable state of mind, with an intent to induce reliance on the false material statement, where plaintiff justifiably relies on the false statement, and where plaintiff suffers a pecuniary loss due to their reliance on the false material statement. A negligent misrepresentation may trigger this defense, as long as the misrepresentation pertains to a material fact.
+Mutual Mistake of Fact - A party may avoid a contract if there is a mistaken belief about a basic assumption of the contract by both parties, which has a material effect on the agreed performance, and where the adversely affected party bore the major risk of mistake. The normal remedy for mutual mistake is recission or voiding the contract.
+Duress / menace - Duress entails a wrongful act or threat by one party, which overcomes the free will of the other party to enter or modify the contract. The standard is not a person of reasonable firmness, rather, whether the party in question was in fact coerced. Actions that will constitute duress are acts or threats of action which are abusive or oppressive such as vilence or threats of violence, imprisonment, wrongful taking of property, and threats to breach a contract or to commit wrongful acts. Duress does not include threats of civil litigation.
+Undue Influence - Undue influence may be an applicable defense where a fiduciary with specialized knowledge who occupies a position of significant confidence with respect to the other party, and who has much more knowledge or experience than the other party, acts pursuant to the special fiduciary relationship to unduly influence or persuade the less experienced party.
+	Misrepresentation - The normal remedy for fraud is recission.
+
+Rules for Construction of Contracts:
+	Reasonable time
+	Validity
+	Four corners doctrine
+	Interlineations
+	Against maker
+	Parol evidence rule
+	Printed v. typed
+	Effective date
+
+Executory Contract – 
+
+Legal effect of a contract:
+Valid
+Void – 
+Voidable – 
+Unenforceable – 
+
+Statute of Frauds - 
+Laches – 
+
+Rules regarding signatures: disabled persons, Signing with an “x”, How names are listed, single, married, business entity
+
+TREC Contract Provisions:
+Earnest Money - Money paid to confirm a contract.
+Financing options - 
+Title policy - 
+Survey - 
+Closing - 
+“Time is of the essence” - 
+Contingencies - 
+Option - 
+Tax Proration - 
+Survival of Terms - 
+
+
+
